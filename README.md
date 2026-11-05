@@ -1,2 +1,2 @@
-# design_code
-repositório focado no design de código
+# Estudo JWT
+repositório focado no estudo com JSON Web Token
